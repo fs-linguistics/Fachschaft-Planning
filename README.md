@@ -3,7 +3,7 @@
 
 Planning for our meetings, anyone may contribute!
 
-If you want to contribute, see [here](# How to contribute)
+If you want to contribute, see [here](#contributing)
 
 # Todos
 
@@ -26,7 +26,7 @@ If you want to contribute, see [here](# How to contribute)
 
 
 
-# How to contribute
+# Contributing
 
 Since you study Comp Ling, it's your responsibility to know git. 😎  
 
