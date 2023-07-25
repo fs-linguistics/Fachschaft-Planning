@@ -19,10 +19,14 @@ If you want to contribute, see [here](#contributing)
 - What an ide is
 - Download VS Code
 - Basic Commandline
+- Debugging examples
 
 #### Living topics 
 - What studying is like 
 - student life is like
+- What resources you have available
+- General tips for being in the major
+- Studying hacks
 
 
 
