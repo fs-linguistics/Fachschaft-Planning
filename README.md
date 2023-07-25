@@ -3,6 +3,8 @@
 
 Planning for our meetings, anyone may contribute!
 
+If you want to contribute, see [here](# How to contribute)
+
 # Todos
 
 ## Tutorials
