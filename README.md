@@ -41,6 +41,12 @@ July 28 at 5PM on Discord.
 - General tips for being in the major
 - Studying hacks
 
+## Experiment with Sponsorship
+
+- Maybe change our email to something that is more recognizable (see other fachschaft which are not random letters)
+- Something with tech or others to potentially host our minecraft server. 
+
+
 
 # Contributing
 
