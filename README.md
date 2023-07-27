@@ -47,6 +47,13 @@ July 28 at 5PM on Discord.
 - Something with tech or others to potentially host our minecraft server. 
 
 
+## Assign more responsibility
+
+- Have more people update the website
+  - Set up the calendar for next semester
+  - Finish the erasmus page with someone who knows what is going up. 
+
+
 
 # Contributing
 
