@@ -10,46 +10,21 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Next meeting: 
 
-July 28 at 5PM on Discord. 
+Aug 4 at 5PM on Discord. 
 
 [Agenda](meetings/20230728.md)
 
-# Todos
+# Agenda for next time
 
-## Tutorials
+-  Experiment with Sponsorship
 
-
-- Before we reserve room, we need
-  - Room capacity, so figure out how many people are planning to come
-  - At what time would be the best, and for how long
-    - Propose maybe just do an hour a day and then get lunch together?
-- Finalize topics/general domain, so we can get contracts and people to teach.
-
-### Topics
-
-#### Technical Topics
-- Git
-- What an ide is
-- Download VS Code
-- Basic Commandline
-- Debugging examples
-
-#### Living topics 
-- What studying is like 
-- student life is like
-- What resources you have available
-- General tips for being in the major
-- Studying hacks
-
-## Experiment with Sponsorship
-
-- Maybe change our email to something that is more recognizable (see other fachschaft which are not random letters)
-- Something with tech or others to potentially host our minecraft server. 
+  - Maybe change our email to something that is more recognizable (see other fachschaft which are not random letters)
+  - Something with tech or others to potentially host our minecraft server. 
 
 
-## Assign more responsibility
 
-- Have more people update the website
+- Assign more responsibilty to other members
+  - Have more people update the website
   - Set up the calendar for next semester
   - Finish the erasmus page with someone who knows what is going up. 
 
