@@ -16,3 +16,7 @@ If you are a frequent contributer I can also give you push access.
 If you are still unfamiliar with git, you can also open an issue with what you want added, and I'll manually add it for you. 
 
 
+
+# Rules
+
+Given this repo is relatively new, there hasn't been enough time for someone to come along and abuse their privileges.  So in general, I plan on giving push access to anyone that wants. Just please don't bomb everything and then force push to master. 
