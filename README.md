@@ -3,7 +3,7 @@
 
 Planning for our meetings, anyone may contribute!
 
-If you want to contribute, see [here](#contributing)
+If you want to contribute, see [here](contributing.md)
 
 If actually contributing is too daunting of a task, click [here](https://github.com/fs-linguistics/Fachschaft-Planning/issues/new/choose) 
 to fill out a github issue for clarification. Or ask in one of our group chats. Or message us on instagram. Or do whatever you want with your life. 
@@ -39,14 +39,7 @@ Aug 4 at 5PM on Discord.
 
 
 
-# Contributing
 
-Since you study Comp Ling, it's your responsibility to know git. 😎  
-
-That means if you want to contribute you can open a pull request, and I'll merge it.
-If you are a frequent contributer I can also give you push access. 
-
-(If you are still unfamiliar with git, you can also open an issue, and I'll manually add it). 
 
 
 
