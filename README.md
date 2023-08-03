@@ -24,6 +24,8 @@ Aug 4 at 5PM on Discord.
   - Have more people update the website
   - Set up the calendar for next semester
   - Finish the erasmus page with someone who knows what is going up. 
+  
+  
 
 
 ## Extra
@@ -33,6 +35,11 @@ Aug 4 at 5PM on Discord.
   - Something with tech or others to potentially host our minecraft server. 
   
 - Official Minecraft server?
+
+- Next semester prep
+  - Setup ersties groupchat
+  - Maybe setup a general first semester welcome back party or something (Somebody who wants)
+  - Recruit more members for Fachschaft next semester
 
 
 
