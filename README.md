@@ -12,7 +12,6 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 Aug 4 at 5PM on Discord. 
 
-[Agenda](meetings/20230728.md)
 
 # Agenda for next time
 
