@@ -17,6 +17,7 @@
 - How to find friends (John is not doing this one 🤓)
 
 ### Program specific
+- go through and explain the module handbook
 - Specific topics to watch out for, how to plan your major etc
 - signing up for classes vs signing up for exams
 - How ects credits work
