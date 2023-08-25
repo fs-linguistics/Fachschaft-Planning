@@ -8,7 +8,7 @@
 - Installing and Using an IDE: Why we need an IDE, how to install and use VS Code for writing and running your first program.
 - What is Git?: Basic understanding of version control and why it is essential.
 - Basic Command Line Usage: How to navigate through directories, run programs. 
-- Basic debugging, using debugger vs printing stuff out vs talking to a duck. 
+- Basic debugging techinque, printing stuff out vs talking to a duck. 
 
 ### Living in Tuebingen
 - Life as a Computational Linguistics Major: What to expect from the major, workload, etc.
@@ -23,3 +23,35 @@
 - How ects credits work
 - Signing up for German classes
 - Alma!!!
+
+
+# Assignments
+
+
+- Assignments
+  - Erik
+     - Intro to programming languages
+       - Java and Python
+     - Basics of Programming
+     - Explainnig program structure
+        - Ects credits
+        - Signing up for moodle
+        - Module Handbook
+        - Go over courses in explainng program structure
+  - Dorka 
+     - Alma
+       - Tips for alma
+       - Searching for courses
+       - scheduling
+     - Signing up for German courses 
+     - What is computational Linguistics overview
+  - John
+     - Git
+     - Basic Command line
+     - Basic debugging
+     - Potentially take some Erik
+  - Paula
+     - How to live in Tuebingen
+     - Campus resources
+     - Finding friends
+     - Potential Suggestions for entertaintment/relaxation
