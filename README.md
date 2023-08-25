@@ -10,10 +10,16 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Next meeting: 
 
-Aug 11 at 5PM on Discord. 
+Aug 25 at 3PM on Discord. 
 
 
 # Agenda for next time
+
+- Finalize topics
+- Divide work
+- Decide on time for next meeting and look over each others work
+
+
 
 
 
