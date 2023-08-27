@@ -1,6 +1,5 @@
 # Fachschaft-Planning
 
-
 Planning for our meetings, anyone may contribute!
 
 If you want to contribute, see [here](contributing.md)
@@ -10,19 +9,13 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Next meeting: 
 
-Aug 25 at 3PM on Discord. 
-
+Wed, August 30th at 9AM in the Fachschaft room.
 
 # Agenda for next time
 
-- Finalize topics
-- Divide work
-- Decide on time for next meeting and look over each others work
-
-
-
-
-
+- Update on QSM topics
+- Update on adding to website
+- Any plans on laptop system?
 
 
 
