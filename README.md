@@ -17,6 +17,7 @@ Wed, August 30th at 9AM in the Fachschaft room.
 - Website update 
 - Any plans on laptop system?
 - How to give official credits for FS engagement?
+- Buy fan/other things for the room?
 
 
 
