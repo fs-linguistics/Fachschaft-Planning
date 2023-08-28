@@ -13,9 +13,10 @@ Wed, August 30th at 9AM in the Fachschaft room.
 
 # Agenda for next time
 
-- Update on QSM topics
-- Update on adding to website
+- QSM: go over draft for Antrag
+- Website update 
 - Any plans on laptop system?
+- How to give official credits for FS engagement?
 
 
 
