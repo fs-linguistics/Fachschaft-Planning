@@ -1,4 +1,4 @@
-# Links & useful info
+# Links
 
 To have all the info & material we need for planning and organising **in one place**. Please do not format the following links. They are meant to be used for copy-pasting.
 
