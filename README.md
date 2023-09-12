@@ -17,7 +17,7 @@ Next meeting October 6th 5PM.
     - office hour for semester planning
     - social events like Get-Together, Pub Crawl...
  
-- changes to the repo:
+- changes to the repo (Annika):
     - additional folders: QSM, IBR
 
 
