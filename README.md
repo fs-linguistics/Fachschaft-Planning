@@ -13,7 +13,12 @@ Next meeting October 6th 5PM.
 
 # Agenda for next time
 
-- Plan first meet of the semester
+- Plan first meet of the semester:
+    - office hour for semester planning
+    - social events like Get-Together, Pub Crawl...
+ 
+- changes to the repo:
+    - additional folders: QSM, IBR
 
 
 
