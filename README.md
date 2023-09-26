@@ -22,7 +22,7 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
     - Update old instagram stories
     - Update Link tree
     - Brainstorm other ideas, assign responsibilities to distribute workload
-
+    - Potentially brainstorm other social events
 
 
 ---
@@ -33,6 +33,8 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
  
 - changes to the repo (Annika):
     - additional folders: QSM, IBR
+- Talk about doing projects throughout the semester. 
+  - Maybe combine them with game night. 
 
 
 
