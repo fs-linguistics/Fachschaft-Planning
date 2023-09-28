@@ -15,14 +15,6 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Agenda for next time
 
-- September 28 10AM. 
-    - Someone call the rooms person who speaks better German than me. 
-    - Maybe make instagram stories every day 
-         - don't get banned
-    - Update old instagram stories
-    - Update Link tree
-    - Brainstorm other ideas, assign responsibilities to distribute workload
-    - Potentially brainstorm other social events
 
 
 ---
@@ -34,8 +26,9 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 - changes to the repo (Annika):
     - additional folders: QSM, IBR
 - Talk about doing projects throughout the semester. 
-  - Maybe combine them with game night. 
+  - Maybe combine them with game night, (I don't really want to host game nights this semester)
 
+- Potentially brainstorm other social events
 
 
 
