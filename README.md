@@ -10,7 +10,6 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 # Next meeting(s): 
 
 
-- September 28 10AM. 
 - October 6th 5PM. 
 
 # Agenda for next time
