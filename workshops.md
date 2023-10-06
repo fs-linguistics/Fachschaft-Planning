@@ -10,6 +10,7 @@ If you want to present, please add yourself to the list.
 |-----------|---------|
 | John      | Haskell |
 | John      | Lambda Calculus        |
+| John      | Advanced Git |
 
 
 
