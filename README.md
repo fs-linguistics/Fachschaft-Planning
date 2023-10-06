@@ -16,5 +16,11 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 ---
 
 - Discuss erstifruestuck and see if it is happening
+- Discuss what exactly the plan is for the intro meeting, what to advertise
+  - Who wants to be the representative
+  - Talk about plans such as
+    - Weekly workshops
+    - General Purpose tutorial
+    - Other social events that other poeple want to do
 
 
