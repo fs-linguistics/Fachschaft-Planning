@@ -7,31 +7,14 @@ If you want to contribute, see [here](contributing.md)
 If actually contributing is too daunting of a task, click [here](https://github.com/fs-linguistics/Fachschaft-Planning/issues/new/choose) 
 to fill out a github issue for clarification. Or ask in one of our group chats. Or message us on instagram. Or do whatever you want with your life. 
 
-# Next meeting(s): 
+# Next meeting(s):
 
-
-- October 4th 10AM. 
-- October 6th 5PM. 
+- Oct 13 5PM, in FS room. 
 
 # Agenda for next time
 
-
-
 ---
 
-- Plan first meet of the semester:
-    - office hour for semester planning
-    - social events like Get-Together, Pub Crawl...
- 
-- changes to the repo (Annika):
-    - additional folders: QSM, IBR
-- Talk about doing projects throughout the semester. 
-  - Maybe combine them with game night, (I don't really want to host game nights this semester)
-- potentially workshops for next semester
-
-- Potentially brainstorm other social events
-- Go back to regular meetings 
-
-
+- Discuss erstifruestuck and see if it is happening
 
 
