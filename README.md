@@ -10,6 +10,7 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 # Next meeting(s): 
 
 
+- October 4th 10AM. 
 - October 6th 5PM. 
 
 # Agenda for next time
@@ -26,11 +27,10 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
     - additional folders: QSM, IBR
 - Talk about doing projects throughout the semester. 
   - Maybe combine them with game night, (I don't really want to host game nights this semester)
+- potentially workshops for next semester
 
 - Potentially brainstorm other social events
-
-
-
+- Go back to regular meetings 
 
 
 
