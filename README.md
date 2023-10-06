@@ -22,5 +22,6 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
     - Weekly workshops
     - General Purpose tutorial
     - Other social events that other poeple want to do
+- Discuss how to approach the ‘missing grades in Alma’ issue.
 
 
