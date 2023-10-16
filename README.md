@@ -16,3 +16,5 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 ---
 
 
+- Fachschaft rules and limitations so we don't start a cult?
+
