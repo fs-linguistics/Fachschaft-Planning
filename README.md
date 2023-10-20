@@ -15,13 +15,3 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 ---
 
-- change meeting time?
-- FS announcements chat?
-- Should I merge everything into one community?
-- start workshops next week
-- start all purpose tutorials next week
-  - should we also do before FS meetings?
-- discuss meeting time 
-- discuss if we want to talk about revising email system
-- Fachschaft rules and limitations so we don't start a cult? -Bo
-
