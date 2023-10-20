@@ -15,6 +15,12 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 ---
 
-
-- Fachschaft rules and limitations so we don't start a cult?
+- change meeting time?
+- FS announcements chat?
+- start workshops next week
+- start all purpose tutorials next week
+  - should we also do before FS meetings?
+- discuss meeting time 
+- discuss if we want to talk about revising email system
+- Fachschaft rules and limitations so we don't start a cult? -Bo
 
