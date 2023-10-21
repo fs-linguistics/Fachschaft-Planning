@@ -9,7 +9,7 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Next meeting(s):
 
-- Oct 20 5PM, in FS room. 
+- Oct 27 6PM, in FS room. 
 
 # Agenda for next time
 
