@@ -12,6 +12,6 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 - Oct 27 6PM, in FS room. 
 
 # Agenda for next time
-- maybe a few events for ersties that involve drinking? (Nicolai)
+- maybe a few events for ersties that don't involve drinking? (Nicolai)
 ---
 
