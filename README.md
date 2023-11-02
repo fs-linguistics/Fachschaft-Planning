@@ -11,12 +11,9 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Next meeting(s):
 
-- Oct 27 5:30PM, in FS room. 
+- Nov 3 6:00PM, in FS room, Room 049 Keplerstrasse 2 
 
 # Agenda for next time
-- maybe a few events for ersties that don't involve drinking? (Nicolai)
-- Discuss how workshop went
-- Plan next workshop
-- Discuss Gaya's plan
+- Help with website
 
 ---
