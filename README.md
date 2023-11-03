@@ -15,5 +15,6 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Agenda for next time
 - Help with website
+- agenda for IBR meeting
 
 ---
