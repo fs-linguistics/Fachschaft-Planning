@@ -11,9 +11,10 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 
 # Next meeting(s):
 
-- Nov 3 6:00PM, in FS room, Room 049 Keplerstrasse 2 
+- Nov 10 6:00PM, in FS room, Room 049 Keplerstrasse 2 
 
 # Agenda for next time
--Book club and other non-alcoholic activites for nerds and non-grass touchers
+- Book club and other non-alcoholic activites for nerds and non-grass touchers
+- Update on website progress help
 
 ---
