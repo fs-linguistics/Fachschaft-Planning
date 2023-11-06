@@ -14,7 +14,6 @@ to fill out a github issue for clarification. Or ask in one of our group chats. 
 - Nov 3 6:00PM, in FS room, Room 049 Keplerstrasse 2 
 
 # Agenda for next time
-- Help with website
-- agenda for IBR meeting
+-Book club and other non-alcoholic activites for nerds and non-grass touchers
 
 ---
