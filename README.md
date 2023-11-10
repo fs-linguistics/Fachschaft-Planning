@@ -15,6 +15,7 @@ And if you don't want to do that either, just message John with what you want to
 
 # Agenda for next time
 - Book club and other non-alcoholic activites for nerds and non-grass touchers
+- Hike
 - Update on website progress help
 - Room situation or whatever
 
