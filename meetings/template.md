@@ -8,7 +8,7 @@ room situation
 Fill here. 
 
 # Meeting
-**Present: Miri, Eric, John, Rofaida, Bo, Paula, Guilio, Annett, Dasan, Dorka, Cara, Daniel**
+**Present: Miri, Eric, John, Rofaida, Bo, Paula, Guilio, Annett, Dasan, Dorka, Cara, Daniyal**
 
 
 room situation: email to Fachschaft - request to move. Somebody requested. For Fachschaftsroom: need to book of Ritter-Hauk 
@@ -23,8 +23,18 @@ Guilio: apply and deciding
 What are our rules: 
 
 suggestion of Paula: we promote anything what people would like to do as long as this is conform with democratic, anti-conspiracy, non-homophobic ... values.
+ 
 vote on workshop on computer science excluselvely 
----
+
+Looks like people not workshop, we are making a whatsapp so that people can help on the workshop.  
+   
+
+- Hike
+  Nicolaid and sophia will lead the hike .
+
+- Emails bo
+  
+  ---
 
 Start: 6pm
 End: end time
