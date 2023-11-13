@@ -14,11 +14,7 @@ And if you don't want to do that either, just message John with what you want to
 - Nov 10 6:00PM, in FS room, Room 049 Keplerstrasse 2 
 
 # Agenda for next time
-- Room situation or whatever
-- Workshop update
-- Update on website progress help
-- Book club and other non-alcoholic activites for nerds and non-grass touchers
-- Hike
+-Dorka invites FS to Christmasmarket/Shakshuka/Mulled wine 
 
 
 ---
