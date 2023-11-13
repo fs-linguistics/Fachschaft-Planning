@@ -18,5 +18,6 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - room situation update (mostly waiting for Jäger's email)
 - brief on website update meeting
 - Christmaspartyplanning
+- finalise IBR agenda
 
 ---
