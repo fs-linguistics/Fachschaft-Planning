@@ -19,5 +19,5 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - brief on website update meeting
 - Christmaspartyplanning
 - finalise IBR agenda
-
+	- job website to advertise HiWi jobs
 ---
