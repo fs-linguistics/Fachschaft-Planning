@@ -20,4 +20,6 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - Christmaspartyplanning
 - finalise IBR agenda
 	- job website to advertise HiWi jobs
+	- room, yet again
+	- Seminar room 035 usage times and projector	
 ---
