@@ -10,16 +10,8 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Nov 17 6:00PM, in FS room, Room 049 Keplerstrasse 2 
+- Nov 24 6:00PM, in FS room, Room 049 Keplerstrasse 2 
 
 ## Agenda for next time
 
-- Dorka invites FS to Christmasmarket/Shakshuka/Mulled wine 
-- room situation update (mostly waiting for Jäger's email)
-- brief on website update meeting
-- Christmaspartyplanning
-- finalise IBR agenda
-	- job website to advertise HiWi jobs
-	- room, yet again
-	- Seminar room 035 usage times and projector	
 ---
