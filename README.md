@@ -23,5 +23,6 @@ And if you don't want to do that either, just message John/Nicolai with what you
   - hopefully date & room set
 - find old websites and email department about them
 - Studieninformationstag
-  - Nicolai will swing by
+  - Nicolai will swing by and report
+- Email: who is the admin? Is that still relevant?
 ---
