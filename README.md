@@ -13,5 +13,15 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - Nov 24 6:00PM, in FS room, Room 049 Keplerstrasse 2 
 
 ## Agenda for next time
-
+- IBR
+  - redo polls and ask people to rank tutorials offered
+  - QSM 2025
+    - dicuss requests earlier
+    - internal deadline end of June
+  - let professors know about errors in the Prüfungsordnung
+- Christmasparty update
+  - hopefully date & room set
+- find old websites and email department about them
+- Studieninformationstag
+  - Nicolai will swing by
 ---
