@@ -24,5 +24,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - find old websites and email department about them
 - Studieninformationstag
   - Nicolai will swing by and report
+  - need BA CL flyer & poster
+  - should have some hands-on material (maybe some snytax trees?)
 - Email: who is the admin? Is that still relevant?
 ---
