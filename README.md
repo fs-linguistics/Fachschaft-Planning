@@ -18,6 +18,9 @@ And if you don't want to do that either, just message John/Nicolai with what you
   - QSM 2025
     - dicuss requests earlier
     - internal deadline end of June
+    - room
+      - Also mentioned room 281 should be avaible, as long as we mention to them the time slots
+      - projector will supposedly be fixed?
   - let professors know about errors in the Prüfungsordnung
 - Christmasparty update
   - hopefully date & room set
@@ -28,4 +31,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
   - should have some hands-on material (maybe some snytax trees?)
 - Email: who is the admin? Is that still relevant?
 - Secret santa
+  - Nicolai will swing by
+- Advertise general purpose tutorial more?
+  - Consider changing name, brainstorm ideas?
 ---
