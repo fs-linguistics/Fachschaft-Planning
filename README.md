@@ -35,6 +35,8 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - Advertise general purpose tutorial more?
   - Consider changing name, brainstorm ideas?
 - Follow up on GL course being too much for new people, 
+  - (mention it effects people's mental health)
 - Follow up on old exams, some would really appreciate old exams
 - Mention that ugly sweater is not mandotry
+- couches?
 ---
