@@ -34,4 +34,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
   - Nicolai will swing by
 - Advertise general purpose tutorial more?
   - Consider changing name, brainstorm ideas?
+- Follow up on GL course being too much for new people, 
+- Follow up on old exams, some would really appreciate old exams
+- Mention that ugly sweater is not mandotry
 ---
