@@ -10,7 +10,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Nov 1 6:00PM, in the new FS room, Room 035 Brechtbau
+- no meeting this week because of the Chrismtas party
 
 ## Agenda for next time
 
