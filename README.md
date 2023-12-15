@@ -10,8 +10,11 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- no meeting this week because of the Chrismtas party
+- there will be no meeting Friday the 22nd due to people going home for Christmas. We are not sure yet when the first meeting in the new year will be held.
 
 ## Agenda for next time
+
+- ice skating in Reutlingen
+- new direction for the Fachschaft
 
 ---
