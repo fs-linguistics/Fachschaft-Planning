@@ -17,5 +17,6 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - ice skating in Reutlingen
 - new direction for the Fachschaft
 - new meeting time
+- draw up schedule for room 035
 
 ---
