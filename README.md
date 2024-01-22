@@ -14,4 +14,5 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Agenda for next time
 - settle on time for ice skating
+- hopefully email update
 ---
