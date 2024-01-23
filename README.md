@@ -15,4 +15,5 @@ And if you don't want to do that either, just message John/Nicolai with what you
 ## Agenda for next time
 - settle on time for ice skating
 - finally set usage times for room 035
+- invitation to TaCoS—should we publicise this?
 ---
