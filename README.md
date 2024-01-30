@@ -10,7 +10,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Tuesday, 30rd of January at 6:30PM in Brechtbau room 035
+- Tuesday, 6th of February at 6:30PM in Brechtbau room 035
 
 ## Agenda for next time
 
