@@ -10,11 +10,8 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Monday, 12th of February at 6:30PM in Brechtbau room 035
+- Tuesday, 20th of February at 6:30PM in Brechtbau room 035
 
 ## Agenda for next time
-- more events
-- merch (+tote bags(?))
-- Rofaïda's summary of the Modulhandbuch
-- form for reimbursing BA thesis expenses
+
 ---
