@@ -10,7 +10,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Tuesday, 16th of April at 6:30PM in Brechtbau room 035
+- Monday, 13th of May at 6:30PM in Brechtbau room 035
 
 ## Agenda for next time
 ---
