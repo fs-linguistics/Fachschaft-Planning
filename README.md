@@ -2,7 +2,7 @@
 
 Planning for our meetings, anyone may contribute!
 
-If you want be a responsible member,  see [here](contributing.md).
+If you want to be a responsible member,  see [here](contributing.md).
 
 If git is too hard, click [here](https://github.com/fs-linguistics/Fachschaft-Planning/issues/new/choose) 
 
@@ -10,9 +10,11 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Monday, 24th of June at 6:30PM in Brechtbau room 035
+- Monday, 15th of July at 6:30PM in Brechtbau room 035
 
 ## Agenda for next time
-- Moodle Update?
+- Moodle,
+- List of books and things in the office,
+- Changing the key code of the office
 
 ---
