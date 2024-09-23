@@ -1,0 +1,310 @@
+\documentclass[aspectratio=169,hyperref={unicode},xcolor={dvipsnames}]{beamer}
+\usetheme{Szeged}
+\usecolortheme{beaver}
+
+\usepackage{fontspec}
+\usepackage{ulem}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+
+\usepackage[german]{babel}
+\definecolor{li}{rgb}{0.8,0,0}
+
+\setbeamercolor{block title alerted}{fg=white,bg=darkred}
+\setbeamercolor{block body alerted}{fg=black,bg=darkred!20}
+\setbeamercolor{alerted text}{fg=darkred}
+
+\newcommand{\weblink}[2]{\textcolor{blue}{\uline{\href{#1}{#2}}}}
+
+\title{Overview of GL \& CL Programs and Course Structure}
+\author{Erik Zeiner}
+\institute{Fachschaft General \& Computational Linguistics\\ \textbf{University of Tübingen}}
+\date{WS 2023/24 \\ Precourse}
+\begin{document}
+\frame{\titlepage}
+\begin{frame}{Linguistics at Uni Tübingen}
+\begin{itemize}
+	\item Philosophische Fakultät = Faculty of Humanities
+		\begin{itemize}
+			\item Fachbereich Neuphilologie = Department of Modern Languages
+				\begin{itemize}
+					\item \textbf{Seminar für Sprachwissenschaft (SFS) = Institute of Linguistics}
+				\end{itemize}
+		\end{itemize}
+\end{itemize}
+\begin{enumerate}
+	\item General Linguistics (GL)
+	\item Computational Linguistics (CL) (ISCL)
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Study Programs at the SFS}
+\begin{columns}[T]
+	\begin{column}{0.5\linewidth}
+   		\textbf{Bachelors (BA)} \textit{6 semesters}
+		\begin{itemize}
+			\item General Linguistics 
+				\begin{itemize}
+					\item Hauptfach (HF) = Major 
+					\item Nebenfach (NF) = Minor
+			\end{itemize}
+			\item Computational Linguistics (ISCL)
+				\begin{itemize}
+					\item Mono $\approx$ Major + Minor
+					\item Nebenfach (NF) = Minor
+				\end{itemize}
+		\end{itemize}
+	\end{column}
+	\begin{column}{0.5\linewidth}
+	   		\textbf{Masters (MA)} \textit{4 semesters}
+		\begin{itemize}
+			\item General Linguistics 
+			\item Computational Linguistics 
+		\end{itemize}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{General structure}
+\begin{columns}[T]
+	\begin{column}{0.25\linewidth}
+		\textbf{CL mono}
+		\begin{itemize}
+			\item CL modules
+			\item Selected GL modules
+			\item Internship
+			\item BA Thesis
+		\end{itemize}
+	\end{column}
+	\begin{column}{0.25\linewidth}
+		\textbf{GL major}
+		\begin{itemize}
+			\item GL modules
+			\item BA Thesis
+		\end{itemize}
+	\end{column}
+	 \begin{column}{0.25\linewidth}
+	 \textbf{GL minor}
+	 	\begin{itemize}
+	 		\item Selected GL modules
+	 	\end{itemize}
+	 \textbf{CL minor}
+	 	 \begin{itemize}
+	 		\item Selected GL \& CL modules
+	 	\end{itemize}
+   	\end{column}
+	\begin{column}{0.25\linewidth}
+		\textbf{GL \& CL MA}
+		\begin{itemize}
+			\item Advanced courses
+			\item MA Thesis
+		\end{itemize}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Information about the Study Programs}
+\begin{center} Sacred documents of your studies:\\\large \textbf{Modulhandbuch (Module Handbook)\\Studien- und Prüfungsordnung (Study and Examination Regulations)}\end{center}
+\begin{columns}[T]
+	\begin{column}{0.5\linewidth}
+   		\textbf{General Linguistics}
+		\begin{itemize}
+			\item \url{http://rebrand.ly/GLinfo}
+		\end{itemize}
+	\end{column}
+	\begin{column}{0.5\linewidth}
+	   		\textbf{Computational Linguistics}
+		\begin{itemize}
+			\item \url{http://rebrand.ly/CLinfo}
+		\end{itemize}
+	\end{column}
+\end{columns}
+\end{frame}
+\begin{frame}
+	\centering \huge Hands-on with the module handbooks
+\end{frame}
+\begin{frame}{Prüfungen (Exams)}
+	\begin{enumerate}
+		\item Orientation Exam
+		\item Intermediate Exam
+		\item Bachelor Exam
+	\end{enumerate}
+	\textbf{\begin{center}Not real exams!\\Pass the associated modules and you automatically pass the exam.
+\end{center}}
+\end{frame}
+
+\begin{frame}{Passing a module}
+\begin{itemize}
+	\item Passing a module = passing all courses needed for that module
+	\item Opened modules have to be closed
+	\item Two chances to pass a course
+\end{itemize}
+
+
+\begin{center}
+	\Tree [.\text{Take a course} [.Pass ] [.Fail [.\text{Re-take exam} [.Pass ] [.Fail \text{Fail the whole program} ] ] [.\text{Take course again} [.Pass ] [.Fail \text{Fail the whole program} ] ] ] ]
+\end{center}
+
+
+\end{frame}
+
+\begin{frame}{BA 1st semester courses}
+\small
+	\begin{center}
+	\begin{table}[h]
+		\begin{tabular}{p{.3\textwidth}|p{.4\textwidth}|p{.2\textwidth}} 
+		Module & Course & Intended for\\
+		\hline
+		Linguistic Fundamentals & \begin{itemize}\item Intro to General Linguistics\end{itemize} & GL \& CL \newline \begin{footnotesize}CL Minor in 3rd sem.\end{footnotesize}\\
+		\hline
+		Methods 1 & \begin{itemize}\item Logic \item Programming and Data Analysis\end{itemize} &  GL \& CL \newline \begin{footnotesize}CL Minor in 3rd sem.\end{footnotesize}\\
+		\hline
+		Introductory module: \newline Computational linguistics &  \begin{itemize}\item Intro to Computational Linguistics \item Data Structures and Algorithms for CL I \end{itemize}& CL \newline Mono \& Minor\\			
+			\hline
+\end{tabular}
+\end{table}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Introduction to Computational Linguistics}
+\begin{columns}
+	\begin{column}{0.5\linewidth}
+		\textbf{Schedule}:
+		
+		Lectures: Wednesdays 4 pm - 6 pm c.t.
+		\newline
+		
+		\textbf{Expected Work}
+		\begin{itemize}
+			\item Attend lectures
+			\item Self-study
+			\item Occasional assignments
+			\item Exam
+		\end{itemize}
+
+   	\end{column}
+	\begin{column}{0.5\linewidth}
+	\begin{alertblock}{Academic quarter (class timing)}
+	\begin{itemize}
+	 \item c.t. (\textit{cum tempore = "with time"}) - class starts 15 minutes after and ends 15 minutes before the stated time
+	 \item s.t. (\textit{sine tempore = "without time"}) - class starts and ends on time
+	 \end{itemize}
+	 \end{alertblock}
+	\end{column}
+\end{columns}
+\begin{center}
+	Link to class page: \url{https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=68}
+\end{center}
+\end{frame}
+
+\begin{frame}{Introduction to Linguistics}
+		\textbf{Schedule}:
+		
+		Lectures: Tuesdays and Thursdays 10 am - 12 pm c.t.\\
+		Tutorials: TBD - multiple slots offered, choose only one
+		\newline
+		
+		\textbf{Expected Work}
+		\begin{itemize}
+			\item Attend lectures
+			\item Attend tutorials
+			\item Self-study
+			\item Exam
+		\end{itemize}
+	\begin{center}
+	Link to class page: \url{https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=248}
+\end{center}
+\end{frame}
+
+\begin{frame}{Logic}
+		\textbf{Schedule}:
+		
+		Lectures: Mondays 12 pm - 2 pm c.t.\\
+		Tutorials: TBD - multiple slots offered, choose only one
+		\newline
+		
+		\textbf{Expected Work}
+		\begin{itemize}
+			\item Attend lectures
+			\item Attend tutorials
+			\item Self-study
+			\item Weekly Assignments
+			\item Exam
+		\end{itemize}
+		
+		\begin{center}
+	Link to class page: \url{https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=111}
+\end{center}
+\end{frame}
+
+\begin{frame}{Programming and Data Analysis}
+		\textbf{Schedule}:
+		
+		Lectures: Tuesdays 2 pm - 4 pm c.t.\\
+		Tutorials: TBD - multiple slots offered, choose only one
+		\newline
+		
+		\textbf{Expected Work}
+		\begin{itemize}
+			\item Attend lectures
+			\item Attend tutorials
+			\item Self-study
+			\item Programming Assignments
+		\end{itemize}
+		
+		\begin{center}
+	Link to class page: \url{https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=343}
+\end{center}
+\end{frame}
+
+\begin{frame}{Data Structures and Algorithms for CL I}
+		\textbf{Schedule}:
+		
+		Lectures: Mondays 10 am - 12 pm c.t.\\
+		Self-test sessions: Wednesdays 10 am - 12 pm c.t.\\
+		Labs: Fridays 10 am - 12 pm c.t.
+			
+		\textbf{Expected Work}
+		\begin{itemize}
+			\item Attend lectures, self test sessions, and labs (not obligatory)
+			\item Self-study - quizzes
+			\item Weekly self-tests and lab exercises
+			\item Exam
+		\end{itemize}
+		
+		\begin{center}
+	Link to class page: \url{https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=241}
+\end{center}
+\end{frame}
+
+\begin{frame}{Schedule for the first week of lectures}
+\begin{itemize}
+	\item Monday: 
+		\begin{itemize}
+		\item (optional) Erstifrühstuck TBD	
+		\item Introductory meetings (Room 036 Neuphilologicum)
+		\begin{itemize}
+			\item GL 2 pm - 4 pm
+			\item CL 4 pm - 6 pm
+		\end{itemize}
+		\end{itemize}
+	\item Tuesday, Wednesday, Thursday: \\ DSA 1 prep sessions \\(Room 0.02 VG Wilhelmstraße 9 am - 12 pm)
+	\item Friday: \\Lab 0 \\(Room 0.02 VG Wilhelmstraße 10 am - 12 pm)
+	
+\end{itemize}
+\end{frame}
+\begin{frame}
+\begin{center}
+\textbf{Look through your Module Handbooks}
+
+---
+
+\textbf{Sign up for classes on Moodle}
+\vfill
+		If you have questions: \\ \href{mailto:erik.zeiner@student.uni-tuebingen.de}{erik.zeiner@student.uni-tuebingen.de}
+		\\
+		\url{https://chat.whatsapp.com/Djz1guUfBbx06rsRKQigfe}
+\end{center}
+\end{frame}
+\end{document}

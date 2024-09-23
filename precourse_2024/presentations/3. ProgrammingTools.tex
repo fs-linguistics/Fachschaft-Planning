@@ -1,0 +1,219 @@
+\documentclass[aspectratio=169,hyperref={unicode}]{beamer}
+\usetheme{Szeged}
+\usecolortheme{beaver}
+
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{ulem}
+\usepackage{hyperref}
+\usepackage[german]{babel}
+
+\newcommand{\weblink}[2]{\textcolor{blue}{\uline{\href{#1}{#2}}}}
+
+\title{Setting Up Programming Tools}
+\author{Erik Zeiner}
+\institute{Fachschaft General \& Computational Linguistics\\ \textbf{University of Tübingen}}
+\date{WS 2023/24 \\ Precourse}
+\begin{document}
+\frame{\titlepage}
+\begin{frame}{Load these slides to open links and copy commands}
+
+	\centering \Large \url{https://fs-linguistics.github.io/precourse-schedule/}
+	\vfill
+	\large
+	Make sure you download:
+	\begin{itemize}
+		\item ProgrammingTools.pdf
+		\item PythonTest.py
+		\item JavaTest.java
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Installing Python}
+There are a few options:
+\begin{itemize}
+	\item Pure Python [\url{https://www.python.org/downloads/}]
+	\item Miniconda - good starter pack: python, few basic packages, tools to install further packages (conda, pip) [\url{https://docs.conda.io/projects/miniconda/en/latest/}]
+	\item Anaconda - many, many tools useful for data science, including ML and NLP [\url{https://www.anaconda.com/download}]
+\end{itemize}
+There are different versions of Python, we will be installing version 3.11.
+\end{frame}
+
+\begin{frame}[fragile]{Installing Miniconda on macOS - Let's do a demo!}
+\begin{center}
+	\textbf{\url{https://docs.conda.io/projects/miniconda/en/latest/}}
+\end{center}
+\begin{verbatim}
+mkdir -p ~/miniconda3
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh 
+-o ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm -rf ~/miniconda3/miniconda.sh
+\end{verbatim}
+Environment: \begin{verbatim}
+~/miniconda3/bin/conda init zsh
+	conda activate
+	conda deactivate
+\end{verbatim}
+\end{frame}
+
+\begin{frame}[fragile]{Installing Miniconda on Linux - It's basically identical.}
+\begin{center}
+	\textbf{\url{https://docs.conda.io/projects/miniconda/en/latest/}}
+\end{center}
+\begin{verbatim}
+mkdir -p ~/miniconda3
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh 
+-O ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm -rf ~/miniconda3/miniconda.sh
+\end{verbatim}
+Environment: \begin{verbatim}
+~/miniconda3/bin/conda init zsh
+	conda activate
+	conda deactivate
+\end{verbatim}
+\end{frame}
+
+\begin{frame}[fragile]{Installing Miniconda on Windows - Let's do a demo!}
+\begin{center}
+	\textbf{\url{https://docs.conda.io/projects/miniconda/en/latest/}}
+\end{center}
+\begin{verbatim}
+curl 
+https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe 
+-o miniconda.exe
+
+start /wait "" miniconda.exe /S
+
+del miniconda.exe
+\end{verbatim}
+Environment: Open app Anaconda Prompt
+\end{frame}
+
+\begin{frame}{Installing Java}
+There are a few options:
+\begin{itemize}
+	\item Pure Java [\url{https://www.java.com/en/download/help/index_installing.html}]
+	\item JDK (Java Development Kit) - software for working with Java applications\\ We will be installing Temurin by Adoptium [\url{https://adoptium.net}]
+\end{itemize}
+There are different versions of Java, we will be installing version 20. \\
+"We need at least Version 11 of the JDK. Any newer version should also be fine."
+\end{frame}
+
+\begin{frame}[fragile]{Installing JDK on macOS/Linux - Let's do a demo!}
+Firstly, let's install brew - a general package installer:
+\begin{center}
+	\textbf{\url{https://brew.sh}}
+\end{center}
+
+\begin{verbatim}
+	/bin/bash -c "$(curl -fsSL 
+	https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+\end{verbatim}
+Then, let's install the JDK using brew:
+\begin{verbatim}
+	brew install --cask temurin
+\end{verbatim}
+\textit {With Linux, you can use your preferred package manager.}
+\end{frame}
+
+\begin{frame}[fragile]{Installing JDK on Windows - Let's do a demo!}
+\small
+Install with an installer (.msi) from:\\
+
+\url{https://adoptium.net/en-GB/temurin/releases/?os=windows&version=20&package=jdk}
+
+\end{frame}
+
+\begin{frame}{Tools for programmers}
+\begin{itemize}
+	\item Text editors
+		\begin{itemize}
+			\item Sublime Text
+			\item Visual Studio Code
+		\end{itemize}
+	\item Integrated Development Environments (IDEs)
+		\begin{itemize}
+			\item IntelliJ IDEA - Java
+			\item PyCharm - Python
+			\item Spyder - Python
+		\end{itemize}
+	\item Notebooks
+		\begin{itemize}
+			\item Jupyter notebook 
+			\item JupyterLab
+			\item Google Collab
+		\end{itemize}
+\end{itemize}
+	
+\end{frame}
+
+\begin{frame}{Visual Studio Code}
+\begin{center}
+	\url{https://code.visualstudio.com}
+\end{center}
+\begin{itemize}
+	\item  General source-code editor 
+	\item for Windows, Linux and macOS
+	\item Support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. 
+	\item Theme, keyboard shortcuts, preferences, and install extensions that add functionality.
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]{Let's turn VS Code into a more proper IDE for Python!}
+\begin{center}
+	Download the extension: \\ \url{https://marketplace.visualstudio.com/items?itemName=ms-python.python}
+\end{center}
+	\begin{enumerate}
+			\item Extensions settings
+			\item Set \textit{Conda path} as your path to the miniconda3 folder
+			\item Set \textit{Default Interpreter path} as your path to the miniconda3 folder
+			\item Check if you can run the PythonTest.py file.
+			\end{enumerate}
+	\begin{verbatim}
+		\Users\USERNAME\miniconda3 (macOS)
+		
+		C:/Users/USERNAME/miniconda3 (Windows)
+	\end{verbatim}
+\end{frame}
+
+
+\begin{frame}{Let's turn VS Code into a more proper IDE for Java!}
+		\begin{center}
+		Download the extension: \\ \url{https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack}	
+		\end{center}
+		\vfill
+		\begin{enumerate}
+			\item Check if you can run the JavaTest.java file.
+			\end{enumerate}
+\end{frame}
+
+\begin{frame}{IntelliJ IDEA - Educational License}
+\begin{center}
+	\url{https://www.jetbrains.com/community/education}
+\end{center}
+
+\begin{center}
+		For DSA II in the 2nd semester (or now if you prefer it)
+\end{center}
+\end{frame}
+\begin{frame}
+\begin{center}
+\textbf{Make sure you have Python installed}
+
+---
+
+\textbf{Make sure you have Java installed}
+
+---
+
+\textbf{Make sure you have VS Code (or other IDE) installed}
+
+\vfill
+		If you have questions: \\ \href{mailto:erik.zeiner@student.uni-tuebingen.de}{erik.zeiner@student.uni-tuebingen.de}
+		\\
+		\url{https://chat.whatsapp.com/Djz1guUfBbx06rsRKQigfe}
+\end{center}
+\end{frame}
+\end{document}
