@@ -6,26 +6,33 @@
 \usepackage{xcolor}
 \usepackage{ulem}
 \usepackage{hyperref}
+\usepackage{changepage}
 \usepackage[german]{babel}
 
+\newcommand{\fullpicslide}[2]{
+\begin{frame}{#2}
+	\vspace{-0.5em}
+	\begin{adjustwidth}{1ex}{1ex}
+    	\includegraphics[width = \linewidth]{#1}
+	\end{adjustwidth}
+\end{frame}
+}
 
 \title{Overview of University Platforms}
-\author{NAME}
+\author{Erik Zeiner}
 \institute{Fachschaft General \& Computational Linguistics\\ \textbf{University of Tübingen}}
 \date{WS 2024/25 \\ Pre-course}
 
 \begin{document}
-
-
 \frame{\titlepage}
 
-
-\begin{frame}
+\begin{frame}{Main University Platforms}
 
 \begin{itemize}
 	\item Alma
 	\item Moodle
 	\item ILIAS
+	\item University Library
 	\item (Webmail)
 \end{itemize}
 
@@ -33,51 +40,124 @@
 
 
 \begin{frame}{ALMA}
- my studies - planner, schedule, enollments, achivements, student service
- studies offered - university course catalog
-	
+\begin{itemize}
+	\item Keep on top of your studies' progress
+	\item Find courses, organise your schedule
+	\item Sign-up for exams
+	\item Generate documents related to your studies
+\end{itemize}
+\vfill
+\begin{center}
+	\textbf{\url{https://alma.uni-tuebingen.de}}	
+\end{center}
+\end{frame}
+
+\fullpicslide{main1.png}{Main Page}
+\fullpicslide{main2.png}{My Studies}
+\fullpicslide{main3.png}{Studies offered}
+\fullpicslide{studies1.png}{}
+\fullpicslide{studies2.png}{}
+\fullpicslide{studies3.png}{}
+\fullpicslide{studies4.png}{}
+\fullpicslide{studies5.png}{he}
+\fullpicslide{studies6.png}{}
+\fullpicslide{studies7.png}{}
+\fullpicslide{studies8.png}{}
+\fullpicslide{offered1.png}{}
+
+\begin{frame}{Demo}
+\centering\Large Find courses \& make a schedule
 \end{frame}
 
 
 \begin{frame}{Moodle}
-find courses
-course page
-assignments	
+\begin{itemize}
+	\item Enroll to courses (SfS specifically)
+	\item Get course materials
+	\item Recieve and submit assignments
+\end{itemize}
+\vfill
+\begin{center}
+	\textbf{\url{https://moodle.zdv.uni-tuebingen.de}}
+\end{center}
+\end{frame}
+
+\fullpicslide{moodle1.png}{}
+\fullpicslide{moodle2.png}{}
+\fullpicslide{moodle3.png}{}
+\fullpicslide{moodle4.png}{}
+\fullpicslide{moodle5.png}{}
+
+\begin{frame}{Demo}
+	\centering\Large Enroll in courses
 \end{frame}
 
 \begin{frame}{ILIAS}
-	find courses
+For some specific courses (most likely outside of SfS),
+	\begin{itemize}
+	\item Get course materials
+	\item Recieve and submit assignments
+\end{itemize}
+\vfill
+\begin{center}
+	\textbf{\url{https://moodle.zdv.uni-tuebingen.de}}
+\end{center}
 \end{frame}
 
+\fullpicslide{illias1.png}{}
+
+\begin{frame}{University Library}
+	\begin{itemize}
+	\item Find resources
+	\item Check your account
+\end{itemize}
+\vfill
+\begin{center}
+	\textbf{\url{https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/}\\\url{https://tue.ibs-bw.de/opac00_bk}}
+\end{center}
+\end{frame}
+
+\fullpicslide{bib1.png}{}
+\fullpicslide{bib2.png}{}
+\fullpicslide{bib3.png}{}
+\fullpicslide{bib4.png}{}
+
 \begin{frame}{Webmail}
-	web access
-	add to your mail client
+\begin{itemize}
+	\item Import info from university/lecturers and such
+	\item Participation to studies
+	\item Other university related messages
+\end{itemize}
+Rec.: re-direct to your personal e-mail, or even better, add it to your mail client [\href{https://faq.zdv.uni-tuebingen.de/otrs/public.pl?Action=PublicFAQZoom;ItemID=29;ZoomBackLink=QWN0aW9uPVB1YmxpY0ZBUUV4cGxvcmVyO0NhdGVnb3J5SUQ9MjtTb3J0Qnk9RkFRSUQ7T3JkZXI9\%0AVXA7U3RhcnRIaXQ9MQ\%3D\%3D\%0A;}{guide}]
+\begin{center}
+	\textbf{\url{https://webmail.uni-tuebingen.de/login.php}}
+\end{center}
 \end{frame}
 
 
 
 \begin{frame}
 \begin{center}
-\textbf{Reminder 1}
+\textbf{Find courses on Moodle}
 
 ---
 
-\textbf{Reminder 2}
+\textbf{Sign-up for exams in Alma}
 
 ---
 
-\textbf{Reminder 3}
+\textbf{Keep an eye on your Webmail}
 
 \vspace{1em}
 
 \begin{minipage}{0.4\textwidth}
 \centering
-    \includegraphics[width=0.5\textwidth]{../QRqa.png}
+    \includegraphics[width=0.5\textwidth]{../QRtemplate_5.png}
   \end{minipage}
   \hfill
   \begin{minipage}{0.4\textwidth}
   \centering
-    \includegraphics[width=0.5\textwidth]{../QRweb.png}
+    \includegraphics[width=0.5\textwidth]{../QRtemplate_4.png}
   \end{minipage}
 \end{center}
 \end{frame}
