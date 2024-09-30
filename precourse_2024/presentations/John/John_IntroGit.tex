@@ -1,0 +1,407 @@
+% [[file:../roam/20230917220031-precourse_presentation.org::+begin_src latex :tangle ../precourse/presentation.tex :comments link][No heading:1]]
+\documentclass[aspectratio=169,hyperref={unicode}]{beamer}
+
+\usetheme{Szeged}
+\usecolortheme{beaver}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{ulem}
+\usepackage{hyperref}
+\usepackage[german]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{ulem}
+
+\title{Into to Git and stuff}
+\author{John}
+\institute{Fachschaft General \& Computational Linguistics\\ \textbf{University of Tübingen}}
+\date{WS 2024/25 \\ Pre-course}
+
+\begin{document}
+
+% Title slide
+\begin{frame}
+\titlepage
+\end{frame}
+
+\section{Basic Commandline}
+% What is Git?
+
+\begin{frame}{Outline}
+\tableofcontents[currentsection]
+\end{frame}
+
+\begin{frame}
+
+  What is the terminal?
+\includegraphics[scale=0.2]{hackerman.jpg}
+\end{frame}
+
+
+% Introduction to Command Line
+\begin{frame}
+\frametitle{Introduction to the Command Line}
+
+\begin{itemize}
+\item Your computer is basically a machine that executes commands, you just have graphics to help visualize it
+\item You type everything, because thats how people did it back then.
+\item Sometimes called: shell, terminal, console (technically different, but you can ignore for now).
+        \item To open it, open terminal in macos, or command prompt in windows.
+\end{itemize}
+\end{frame}
+
+% Navigating Directories
+\begin{frame}[fragile]
+\frametitle{Basics: Navigating Directories}
+\begin{itemize}
+\item Basically file manager but no mouse.
+\item This is might not work on windows because blame microsoft.
+\item \texttt{cd} to change directories.
+\item \texttt{pwd} to display the current directory.
+\item \texttt{ls} to list files and directories.
+\end{itemize}
+\end{frame}
+
+% Creating and Deleting
+\begin{frame}[fragile]
+\frametitle{Creating and Deleting}
+\begin{itemize}
+        \item note you can potentially remove all your files on the command line.
+        \item great if you want to screw yourself over.
+\item \texttt{mkdir} to create a new directory.
+\item \texttt{touch} to create a new file.
+\item \texttt{rm} to remove a file.
+\item \texttt{rmdir} to remove an empty directory.
+\end{itemize}
+\end{frame}
+
+% Viewing and Editing Files
+\begin{frame}[fragile]
+\frametitle{Viewing and Editing Files}
+\begin{itemize}
+\item Basacily the equivalent of opening it in notepad.
+\item \texttt{cat} to display the contents of a file.
+\item \texttt{nano}, \texttt{vi}, or \texttt{vim} to edit files directly from the command line.
+\end{itemize}
+\end{frame}
+
+
+% Introduction to Command Line for Python
+\begin{frame}
+\frametitle{But do I really need this?}
+\begin{itemize}
+        \item It is how you run python
+\item As a beginner, you can mostly get by by clicking the green button
+\item Sometimes green button no work, so its good to know how to do it from the command line
+\item Make sure you do not develop command line phobia.
+\end{itemize}
+\end{frame}
+
+% Running Python Scripts
+\begin{frame}[fragile]
+\frametitle{Running Python Scripts}
+\begin{itemize}
+\item Navigate to the directory containing your Python script using \texttt{cd}.
+\item Run a Python script with the \texttt{python} command followed by the script name.
+\end{itemize}
+\end{frame}
+
+% Using Python Interpreter
+\begin{frame}[fragile]
+\frametitle{Using the Python Interpreter}
+\begin{itemize}
+        \item Very useful for playing around with concepts
+\item You can start the Python interpreter by simply typing \texttt{python} in the command line.
+\item You can execute Python commands directly in the interpreter.
+\end{itemize}
+\end{frame}
+
+% Tips for Beginners
+\begin{frame}
+\frametitle{random tips}
+\begin{itemize}
+\item Use \texttt{python --version} to check the installed Python version.
+\item Use \texttt{pip} to install Python packages: \texttt{pip install package\_name}.
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{No I want to only click on green run button no terminal}
+\begin{itemize}
+\item OK, well you have to use it when you ssh
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{What is ssh}
+\begin{itemize}
+\item allows you to steal someone's computing power
+\item great if your own computer is a toaster
+\item but no gui, only shell
+\item its like someone gave you the keys to their car so you do not have to ride your tricycle.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{How to ssh}
+\begin{itemize}
+\item everyone gets access to their own virtual machine on the server
+\item \texttt{ssh username@somethingsomething}
+\item in theory you could use it to mine bitcoin
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+
+  \centering
+  Demo if we have time
+\end{frame}
+
+\section{Git}
+% What is Git?
+
+\begin{frame}{Outline}
+\tableofcontents[currentsection]
+\end{frame}
+
+\begin{frame}
+\frametitle{What is Git?}
+
+\includegraphics[scale=0.5]{image.png}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{What is Git (for real)?}
+\begin{itemize}
+\item
+
+\begin{quote}
+Git  is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
+\end{quote}
+\item Basically google docs for code.
+\item A command line program (but GUIs exist).
+\item It's how you download code off of github.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{github}
+\begin{itemize}
+  \item git hub is the website, git is the actual program you use
+        \item  You can use a different source hosting site, but most just use github
+        \item You can have a personal repo with your modifications by making a fork, which is done on github
+        \item Github also has a bunch of random social media features too
+        \item follow me on github btw
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+But why can't I just use google drive?
+\end{frame}
+
+\begin{frame}
+\frametitle{Why use Git?}
+\begin{itemize}
+\item Keeps a history of all changes.
+\item Branching and merging capabilities. (meaning two people can work on different parts of the code base at the same time)
+\item Distributed, meaning everyone that uses git has a copy of the source code, so you don't need internet to work on it.
+        \item See who wrote what, and blame them for their bugs.
+        \item If you don't use git you \emph{will} get bullied.
+\end{itemize}
+\end{frame}
+
+% Basic Commands
+\begin{frame}
+\frametitle{Basic Git Commands}
+\begin{itemize}
+\item \texttt{git init} Only need to do this once when making a new repo.
+        If you download from github, you use \texttt{git clone}
+\item \texttt{git add} add to ``staging''.
+\item \texttt{git commit} - Saves changes to the repository, with a small message saying what you did.
+\item \texttt{git push} - Uploads changes to a remote repository.
+\item \texttt{git status} See what you've added so far
+        \item Lots of other commands, but we will only go over these.
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Workflow}
+\begin{itemize}
+  \item Do some work
+        \item Save in your editor
+        \item Git add your changes, (sometimes you don't want to add all your changes)
+        \item Git commit, and give a message
+
+        \item Git pull to see if anyone else made any changes. If there are changes you need to merge them.
+        \item git push to see it on github.
+        \item Repeat
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{But that's too hard}
+\begin{itemize}
+  \item Download a gui
+        \item github desktop, gitkraken,
+        \item vscode also has git integration
+        \item  Alternatively, edit directly on github (not recommended)
+\end{itemize}
+\end{frame}
+
+
+% Conclusion
+\begin{frame}
+\frametitle{Faq}
+\begin{itemize}
+\item Push didn't work! - Pull first
+\item Pull didn't work! - Commit first
+        \item I committed but I still can't pull - You probably forgot to add before you commit
+\item I have a merge conflict! - Try not to panic, open the files, fix the errors, add and commit.
+        \item I did commit, but now I'm in a weird editor - It's probably vim, type \texttt{i} to actually begin editing.
+        \item How to exit vim? - esc \texttt{:wq}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Basically}
+
+
+\includegraphics[scale=0.5]{git.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Interactive Example (if extra time)}
+Real life github
+\end{frame}
+
+
+\section{Debugging}
+\begin{frame}{Outline}
+\tableofcontents[currentsection]
+\end{frame}
+
+% What is Debugging?
+\begin{frame}
+\frametitle{What is a bug?}
+\begin{itemize}
+        \item Basically, you are doing something wrong
+\item It's a lot easier writing wrong code than correct code.
+\end{itemize}
+\end{frame}
+
+% Types of Errors
+\begin{frame}
+\frametitle{Types of Errors}
+\begin{itemize}
+\item Compile Errors
+\item Runtime Errors
+\item Logic Errors
+\end{itemize}
+\end{frame}
+
+% Compile Errors
+\begin{frame}
+\frametitle{Compile Errors}
+\begin{itemize}
+\item Basically, you made a grammar mistake
+\item Examples: Missing semicolons, undeclared variables, mismatched brackets, typos
+
+
+  \item Usually there will be a red squiggly line
+        \item Relatively easy to fix, usually you copied something wrong.
+\end{itemize}
+\end{frame}
+
+% Runtime Errors
+\begin{frame}
+\frametitle{Runtime Errors}
+\begin{itemize}
+\item Occur while the program is running.
+\item Examples: Dividing by zero, trying to access an out-of-bounds array index, the famous null pointer exception
+\item Usually your program crashes.
+\item There is usually a line number to see where it failed
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]
+
+
+
+\end{frame}
+
+% Logic Errors
+\begin{frame}
+\frametitle{Logic Errors}
+\begin{itemize}
+\item The code runs, but doesnt do what you want it to do
+\item Examples: Incorrect formulas, missing steps in a process.
+\item Often the hardest to detect because there are no explicit error messages.
+\end{itemize}
+\end{frame}
+
+% Debugging Techniques
+\begin{frame}
+\frametitle{Debugging Techniques}
+\begin{itemize}
+\item Adding Print Statements
+\item Using Paper and Pencil
+\item Duck Debugging
+\end{itemize}
+\end{frame}
+
+% Print Statements
+\begin{frame}
+\frametitle{Adding Print Statements}
+\begin{itemize}
+\item Adding lines of code to display variables or messages.
+  \item Allows you to see which code is being run, which code is not.
+    \item  Relatively simple, you learn hello world on the first day and that's all you need.
+\end{itemize}
+\end{frame}
+
+% Paper and Pencil
+\begin{frame}
+\frametitle{Using Paper and Pencil}
+\begin{itemize}
+\item Write down variables and their values as you trace through the code.
+\item Allows for manual simulation of how the code runs.
+\item Sometimes writing stuff down just makes everything make sense
+\end{itemize}
+\end{frame}
+
+% Duck Debugging
+\begin{frame}
+\frametitle{Duck Debugging}
+\begin{itemize}
+\item Explain your code or problem out loud, as if to a rubber duck or inanimate object.
+        \item Sounds really stupid, but sometimes works
+        \item if you do this in public, you may get bullied
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Other useful tips}
+\begin{itemize}
+\item Google is your best friend
+        \item Stackoverflow can also be helpful (they can also be mean)
+        \item Maybe chatgpt (make sure you understand the code yourself)
+\end{itemize}
+\end{frame}
+% Conclusion
+
+\begin{frame}
+\frametitle{Interactive example (if we have time)}
+\begin{itemize}
+\item Examples: Making a sandwich
+\item Examples: Adding two numbers
+\item Examples: Doing laundry
+\end{itemize}
+\end{frame}
+
+\end{document}
+%%% Local Variables:
+%%% TeX-command-extra-options: "-shell-escape"
+%%% End:
