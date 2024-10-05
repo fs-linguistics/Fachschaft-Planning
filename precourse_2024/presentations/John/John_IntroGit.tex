@@ -12,7 +12,7 @@
 \usepackage{graphicx}
 \usepackage{ulem}
 
-\title{Into to Git and stuff}
+\title{Into to Technology}
 \author{John}
 \institute{Fachschaft General \& Computational Linguistics\\ \textbf{University of Tübingen}}
 \date{WS 2024/25 \\ Pre-course}
@@ -40,48 +40,71 @@
 
 % Introduction to Command Line
 \begin{frame}
-\frametitle{Introduction to the Command Line}
+\frametitle{What is a computer}
 
 \begin{itemize}
-\item Your computer is basically a machine that executes commands, you just have graphics to help visualize it
-\item You type everything, because thats how people did it back then.
-\item Sometimes called: shell, terminal, console (technically different, but you can ignore for now).
-        \item To open it, open terminal in macos, or command prompt in windows.
+\item Your computer a big calculator
+        \item It has a list of instructions and it executes it one by one
 \end{itemize}
 \end{frame}
 
+\begin{frame}
+\frametitle{How to interact with the calculator}
+
+\begin{itemize}
+\item Usually you interact with a gui
+        \item What did they do before guis?
+\item They used the command line
+\end{itemize}
+\includegraphics[scale=0.5]{cmd.jpeg}
+\end{frame}
 % Navigating Directories
+%
+
 \begin{frame}[fragile]
-\frametitle{Basics: Navigating Directories}
+\frametitle{What can you do with the Command Line?}
+\begin{itemize}
+        \item Short answer: Everything
+        \item Simple examlpes: set a timer, do arithmetic, play a text based game
+        \item Most importantly: run programs
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{The file system}
+\begin{itemize}
+  \item How does the computer know what to do?
+        \item Files
+        \item You should be familiar, when uploading photos
+        \item A file is not just a photo, but any piece of data
+        \item Example: Excel data, Word file, your Minecraft World
+        \item Others: Settings, Programs, Folders, Mouse and Keyboard
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Directories}
 \begin{itemize}
 \item Basically file manager but no mouse.
-\item This is might not work on windows because blame microsoft.
-\item \texttt{cd} to change directories.
-\item \texttt{pwd} to display the current directory.
-\item \texttt{ls} to list files and directories.
+        \item Files are the exact same, just a different way to access them.
+\item Example: \texttt{~/Desktop/homework/assignment1.java}
+
+        \item Instead of clicking through folders you have to type in which folder you want to switch to.
+        \item The names of folders separated by slashes is the path.
 \end{itemize}
 \end{frame}
 
-% Creating and Deleting
-\begin{frame}[fragile]
-\frametitle{Creating and Deleting}
-\begin{itemize}
-        \item note you can potentially remove all your files on the command line.
-        \item great if you want to screw yourself over.
-\item \texttt{mkdir} to create a new directory.
-\item \texttt{touch} to create a new file.
-\item \texttt{rm} to remove a file.
-\item \texttt{rmdir} to remove an empty directory.
-\end{itemize}
-\end{frame}
 
 % Viewing and Editing Files
 \begin{frame}[fragile]
-\frametitle{Viewing and Editing Files}
+\frametitle{Other things you can do}
 \begin{itemize}
-\item Basacily the equivalent of opening it in notepad.
-\item \texttt{cat} to display the contents of a file.
-\item \texttt{nano}, \texttt{vi}, or \texttt{vim} to edit files directly from the command line.
+        \item Many gui actions have command line equivalents
+\item Opening a file it in notepad.
+  \item Editing the file in Notepad
+        \item Moving a file to the trash can
+        \item Making a new file in Notepad
 \end{itemize}
 \end{frame}
 
@@ -113,15 +136,6 @@
         \item Very useful for playing around with concepts
 \item You can start the Python interpreter by simply typing \texttt{python} in the command line.
 \item You can execute Python commands directly in the interpreter.
-\end{itemize}
-\end{frame}
-
-% Tips for Beginners
-\begin{frame}
-\frametitle{random tips}
-\begin{itemize}
-\item Use \texttt{python --version} to check the installed Python version.
-\item Use \texttt{pip} to install Python packages: \texttt{pip install package\_name}.
 \end{itemize}
 \end{frame}
 
@@ -404,4 +418,5 @@ Real life github
 \end{document}
 %%% Local Variables:
 %%% TeX-command-extra-options: "-shell-escape"
+%%% TeX-engine: luatex
 %%% End:
