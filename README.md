@@ -10,11 +10,13 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Monday, 15th of July at 6:30PM in Brechtbau room 035
+- Monday, 11th of November at 6:30 PM in Brechtbau room 035
 
 ## Agenda for next time
-- Moodle,
 - List of books and things in the office,
-- Changing the key code of the office
+- Changing the key code of the office,
+- Game night,
+- Christmas party,
+- Fachschaft merch
 
 ---
