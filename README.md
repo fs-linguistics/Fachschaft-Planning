@@ -10,15 +10,10 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Monday, 11th of November at 6:30 PM in Brechtbau room 035
+- Monday, 18th of November at 6:30 PM in Brechtbau room 035
 
 ## Agenda for next time
-- List of books and things in the office,
-- Changing the key code of the office,
-- Game night,
-- Christmas party,
-- Fachschaft merch
-- Meeting with journalist in residence
-- C course
+- Christmas party update
+- 
 
 ---
