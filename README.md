@@ -18,5 +18,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - Game night,
 - Christmas party,
 - Fachschaft merch
+- Meeting with journalist in residence
+- C course
 
 ---
