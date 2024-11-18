@@ -10,10 +10,9 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Monday, 18th of November at 6:30 PM in Brechtbau room 035
+- Monday, 25th of November at 6:30 PM in Brechtbau room 035
 
 ## Agenda for next time
 - Christmas party update
-- 
 
 ---
