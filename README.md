@@ -10,9 +10,10 @@ And if you don't want to do that either, just message John/Nicolai with what you
 
 ## Next meeting(s):
 
-- Monday, 2nd of December at 6:30 PM in Brechtbau room 035
+- Mondays at 6:30 PM in Brechtbau room 035
 
 ## Agenda for next time
-- Christmas party update
+- distributing responsibilities
+- events for the following semester
 
 ---
