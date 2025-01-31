@@ -15,5 +15,9 @@ And if you don't want to do that either, just message John/Nicolai with what you
 ## Agenda for next time
 - distributing responsibilities
 - events for the following semester
-
+- room usage in the break and next semester
+- BBP clean up the week of the 10th
+- BBP Fachschaftshütte
+- Daniela's play
+- workshop for updating the website
 ---
