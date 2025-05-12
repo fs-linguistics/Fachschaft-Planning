@@ -13,4 +13,7 @@ And if you don't want to do that either, just message John/Nicolai with what you
 - Mondays at 6:30 PM in Brechtbau room 035
 
 ## Agenda for next time
+- Mixer
+- Julia workshop
+- Movie night
 ---
