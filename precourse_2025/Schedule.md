@@ -27,8 +27,13 @@
 - Info on Generative AI use
 - MA specific session
 - GL specific session?
-- Introduction to the structure and research at the SfS/German academia??
+
 
 ## Friday
 - *Lab 0*
 - *Pub Crawl*
+
+# Idea pool
+
+- Introduction to the structure and research at the SfS/German academia??
+- How to learn at uni
