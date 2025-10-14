@@ -46,9 +46,11 @@ Ideally we would be done with all of this by 10:00
 
 1pm - 3pm
 - Living and Studying in Tübingen (Lina, Annika) (1h minimum)
-  - Introduction to the structure and research at the SfS/German academia??
-- Aida shows her course tracker/planner
-2pm
+  - Introduction to the structure at the SfS
+  - Useful resources
+- Aida shows her course tracker/planner  
+
+2pm 
 - Tour of the campus
   - Group leaders: Akshat, Lina, Aida, Seoha (others if needed)
 
