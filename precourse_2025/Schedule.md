@@ -25,23 +25,27 @@
 - Speed-dating social thing (Lina 20 minutes)
 - Overview of the university platforms (Seoha,Akshat 30 minutes)
   - alma, library, ilias 
-- Intro to General Linguistics (Aida, 25 minutes)
-- Introduction to Computational Linguistics (Lina, 25 minutes)
+- ~Intro to General Linguistics (Aida, 25 minutes)~ moved to wed
+- ~Introduction to Computational Linguistics (Lina, 25 minutes)~ moved to wed
 
 ## Wednesday
 9am-12pm
+- Intro to General Linguistics (Aida, 15 minutes)
+- ~Introduction to Computational Linguistics (Lina, 10-15 minutes)
 - Gentle introduction to programming (Erik 20 minutes)
 - Generative AI and use (15 minutes)
-  - there is a form of AI use by the uni  
-- Computer setup for your studies (Miriam, ? minutes)
-  - VPN
+  - there is a form of AI use by the uni
+Ideally we would be done with all of this by 10:00
+- Computer setup for your studies (Miriam, 1h)
+  - VPN, eduroam
   - Python
-  -  (GL Q&A separately) (Erik,?)
-- Java (tutors)
+- GL Q&A separately if needed (Erik, room 035?)
+- Java (tutors + Saile)
 
 1pm - 3pm
-- Living and Studying in Tübingen (Lina, Annika) (1h)
+- Living and Studying in Tübingen (Lina, Annika) (1h minimum)
   - Introduction to the structure and research at the SfS/German academia??
+- Aida shows her course tracker/planner
 2pm
 - Tour of the campus
   - Group leaders: Akshat, Lina, Aida, Seoha (others if needed)
