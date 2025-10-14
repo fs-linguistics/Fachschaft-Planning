@@ -34,8 +34,10 @@
 - ~Introduction to Computational Linguistics (Lina, 10-15 minutes)
 - Gentle introduction to programming (Erik 20 minutes)
 - Generative AI and use (15 minutes)
-  - there is a form of AI use by the uni
+  - there is a form of AI use by the uni  
+
 Ideally we would be done with all of this by 10:00
+
 - Computer setup for your studies (Miriam, 1h)
   - VPN, eduroam
   - Python
