@@ -1,0 +1,408 @@
+\documentclass[aspectratio=169,hyperref={unicode}]{beamer}
+
+\usetheme{Szeged}
+\usecolortheme{beaver}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{ulem}
+\usepackage{hyperref}
+\usepackage[german]{babel}
+
+
+\hypersetup{colorlinks = true,
+	linkcolor = blue,
+	urlcolor  = blue,
+	citecolor = blue,
+	anchorcolor = blue}
+
+\title{Computer setup}
+\author{Miriam Han}
+\institute{Fachschaft General \& Computational Linguistics\\ \textbf{University of Tübingen}}
+\date{WS 2025/26 \\ Pre-course}
+
+\begin{document}
+	
+	
+	\frame{\titlepage}
+	
+	
+	\begin{frame}{Agenda}
+		
+		\begin{enumerate}
+			\item WiFi
+			\item VPN
+			\item Python
+			\item VSCode
+		\end{enumerate}
+		
+		\vfill
+		
+		(useful for both GL \& CL students)
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{WiFi}
+		
+		\begin{columns}
+			
+			\begin{column}{0.5\textwidth}
+				
+				WiFi name: \textbf{eduroam}
+				
+				---
+				
+				\textbf{\large{Desktop (all operating systems):}}
+				
+				\begin{enumerate}
+					\item connect to 'UTguest' so you can access the web
+					\item go to \url{https://cat.eduroam.org/}
+					\item click on the big blue button that says 'Click here to download your eduroam installer'
+				\end{enumerate}
+				
+			\end{column}
+			
+			\begin{column}{0.5\textwidth}
+				\includegraphics[scale=0.17]{cat_eduroam.png}
+				
+			\end{column}
+			
+		\end{columns}
+
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{WiFi cont.}
+		
+		\begin{columns}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\begin{enumerate}
+					\setcounter{enumi}{3}
+					\item find \& click on 'university of tuebingen' \\
+					\includegraphics[scale=0.22]{select_uni_tuebingen.png}
+				\end{enumerate}
+				
+			\end{column}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\begin{enumerate}
+					\setcounter{enumi}{4}
+					\item click on the big blue button that says 'eduroam'; you will be prompted to download a file; download it \\
+					\includegraphics[scale=0.28]{click_eduroam.png}
+				\end{enumerate}
+				
+			\end{column}
+			
+		\end{columns}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{WiFi cont.}
+		
+		\begin{columns}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\textbf{steps 6-7 are ONLY for Win11; do NOT do them if you are NOT on Win11}
+				
+				\begin{enumerate}
+					\setcounter{enumi}{5}
+					\item double-click on the downloaded file \& follow the instructions; if a warning along the lines of 'you are about to install ... Hellenic Academic and Research Institutions RootCA 2015' pops up, click on 'yes'
+					\item enter your username in the form of \texttt{zx\#\#\#\#\#@uni-tuebingen.de} and your password
+				\end{enumerate}
+				
+			\end{column}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\includegraphics[scale=0.4]{enter_user_data.png}
+				
+			\end{column}
+			
+		\end{columns}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{WiFi cont.}
+		
+		\textbf{these steps are for all operating systems again}
+		
+		\begin{enumerate}
+			\setcounter{enumi}{7}
+			\item go to settings, WiFi, select 'eduroam'; \textbf{Win11 users are now connected \& done here.}
+			\item \textbf{all other operating systems:} enter your username in the form of \texttt{zx\#\#\#\#\#@uni-tuebingen.de} and your password, done.
+		\end{enumerate}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{WiFi cont.}
+		
+		\begin{columns}
+			
+			\begin{column}{0.5\textwidth}
+				
+					\large{\textbf{Mobile (Android):}}
+				
+				\begin{enumerate}
+					
+					\item download 'geteduroam' from the Play Store
+					\item open the app, find \& select 'Universität Tübingen'
+					\item enter your username in the form of \texttt{zx\#\#\#\#\#@uni-tuebingen.de} and your password, press save
+					\item close the app, done.
+					
+				\end{enumerate}
+				
+				\small{if this does not work, download the file from \url{https://cat.eduroam.org/} like for desktop and open it using the 'geteduroam' app}
+				
+			\end{column}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\includegraphics[scale=0.3]{android_geteduroam.png}
+				\includegraphics[scale=0.5]{android_geteduroam_find_uni_tuebingen.png}
+				
+			\end{column}
+			
+		\end{columns}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{WiFi cont.}
+		
+		\begin{columns}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\textbf{Mobile (iOS, iPadOS):}
+				
+				\begin{enumerate}
+					
+					\item open settings, WiFi
+					\item tap 'eduroam'
+					\item enter your username in the form of \texttt{zx\#\#\#\#\#@uni-tuebingen.de} and your password
+					\item press 'trust', done
+					
+				\end{enumerate}
+				
+				if this does not work:
+				
+			\end{column}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\begin{enumerate}
+					
+					\item download the file from \url{https://cat.eduroam.org/} like for desktop
+					\item go to settings, general, vpn \& device management, or 'profile downloaded' might show up in your settings directly
+					\item tap the downloaded eduroam profile, tap install
+					\item enter your username in the form of \texttt{zx\#\#\#\#\#@uni-tuebingen.de} and your password
+					\item press next, 'trust' if prompted, done.
+					
+				\end{enumerate}
+				
+			\end{column}
+			
+		\end{columns}
+	
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{WiFi cont.}
+		
+		Find the official WiFi instructions and troubleshooting tips \href{https://wiki.uni-tuebingen.de/bin/view/Campus\%20IT\%20Customer\%20Services\%20\%28CICS\%29/Anleitungen\%20\%7C\%20FAQ/WLAN\%20EDUROAM/?language=de}{here}.
+		
+	\end{frame}
+	
+	\begin{frame}{VPN}
+		
+		\begin{itemize}
+			
+			\item what is it? It connects your device to a network (the uni's internal network)
+			\item why should you set it up? To be able to access content remotely that is otherwise only accessible when you are here and connected to the uni WiFi, like book pdfs from the uni library platform
+			
+		\end{itemize}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{VPN cont.}
+		
+		\begin{columns}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\textbf{Desktop (Windows):}
+				
+				\begin{enumerate}
+					
+					\item find 'VPN' in the settings using the search function, click on 'add VPN'
+					\item set the fields that show up:
+					\begin{itemize}
+						\item VPN provider: \textbf{Windows (integrated)}
+						\item connection name: \textbf{up to you}
+						\item server name or IP address: \textbf{vpn.uni-tuebingen.de}
+						\item VPN type: \textbf{SSTP}
+						\item username \& password: \textbf{enter your username in the form of \texttt{zx\#\#\#\#\#@uni-tuebingen.de} and your password}
+					\end{itemize}
+			
+					
+				\end{enumerate}
+
+			\end{column}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\includegraphics[scale=0.22]{win_vpn.png}
+				
+			\end{column}
+			
+		\end{columns}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{VPN cont.}
+		
+		\begin{columns}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\begin{enumerate}
+					\item Win11: open 'Control Panel', 'network and sharing center' (if this is not visible, click 'network and internet' first), 'change adapter settings'
+					\item right-click the VPN connection you just created, click on 'properties'
+					\item in the window that opens, click on the tab called 'security' \& set the fields:
+					\small{
+					\begin{itemize}
+						\item VPN type: \textbf{SSTP}
+						\item data encryption: \textbf{required}
+						\item authentication: \textbf{click on 'allow these protocols' \& click on the checkbox next to 'Microsoft CHAP Version 2 (MS-CHAP v2)'}
+					\end{itemize}
+					}
+					
+				\end{enumerate}
+				
+			\end{column}
+			
+			\begin{column}{0.5\textwidth}
+				
+				\begin{enumerate}
+					
+					\setcounter{enumi}{3}
+					\item try connecting to the VPN via settings, VPN, select the VPN you just created, done.
+					
+				\end{enumerate}
+				
+				\includegraphics[scale=0.35]{win_vpn_properties.png}
+				
+			\end{column}
+			
+		\end{columns}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{VPN cont.}
+		
+		\textbf{Desktop (macOS):}
+		
+		\begin{enumerate}
+			\item download the macOS configuration file called 'vpn-uni-tuebingen-2024.mobileconfig' from \href{https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/dienstleistungen/netze/netzzugang/remote-zugang-vpn/}{here}; it might open automatically, or you have to double-click on it
+			\item you might get a notification to check out the file in the settings, or go there manually by via settings, privacy \& security, profiles
+			\item click on 'install', 'ignore' if it says the profile is not signed
+			\item enter your username in the form of \texttt{zx\#\#\#\#\#}
+			\item enter your computer's password
+		\end{enumerate}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{VPN cont.}
+		
+		\begin{enumerate}
+			\setcounter{enumi}{5}
+			\item open settings, network, click on the button with the 3 dots, click on 'set service order'
+			\item drag the VPN connection you just created to the top of the list
+			\item go to settings, VPN
+			\item click on the i in the circle next to your VPN connection, enter your university password in the 'password' field
+			\item try connecting to the VPN, done.
+		\end{enumerate}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{VPN cont.}
+		
+		Find the official VPN instructions (also for mobile) and troubleshooting tips \href{https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/dienstleistungen/netze/netzzugang/remote-zugang-vpn/}{here}.
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{Python}
+		
+		\begin{itemize}
+			
+			\item what is it? A programming language
+			\item why should you install it? You will need it for the course 'Programming and Data Analysis' in the module 'Methods I'
+			
+		\end{itemize}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{Python cont.}
+		
+		\textbf{Desktop (all operating systems):}
+		
+		\begin{enumerate}
+			\item check if you already have Python by opening the app 'Command Prompt' (Windows)/'terminal' (macOS), typing \texttt{python --version}, and pressing enter
+			\item if the version is NOT 3.x or you get an error, follow the next steps
+			\item download Python from \href{https://www.python.org/downloads/}{here} (yellow button), open it, follow the instructions
+			\item check if you successfully installed Python by doing step 1 again, which should now give you a version number, done.
+		\end{enumerate}
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{VSCode}
+		
+		\begin{itemize}
+			\item what is it? a simple code/text editor
+			\item why should you install it? You can use it to do your assignments for 'Programming and Data Analysis'; your instructor might ask you to use a different editor though
+		\end{itemize}
+		
+	\end{frame}
+	
+	%%%%%%%%%%
+	
+	\begin{frame}{VSCode cont.}
+		
+		\begin{enumerate}
+			\item Download the correct version of VSCode for your operating system from \href{https://code.visualstudio.com/download}{here}, open it, follow the instructions, done.
+			\item Go to 'extensions' by clicking on the icon with the 4 squares on the left
+			\item search for 'python' and install the extension called 'Python' by Microsoft, or click \href{https://marketplace.visualstudio.com/items?itemName=ms-python.python}{here} and click on the green 'install' button, done.
+		\end{enumerate}
+		
+	\end{frame}
+	
+\end{document}
