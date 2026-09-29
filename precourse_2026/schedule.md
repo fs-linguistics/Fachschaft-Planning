@@ -44,12 +44,12 @@
 ## Thursday 15/10
 - Morning: DSA1 setup (9:00 - 12:00?)
 - MA-specific Q&A (also preemptive) ~ TBD
-- (pre-emptively) City rally (the Halal hangout) - with the option to reschedule ~ EVERYONE!!!1!11
+- (pre-emptively) City rally - with the option to reschedule ~ EVERYONE!!!1!11
   - Route planning ~ Yao
 
 ## Friday 16/10
 - Morning: DSA1 lab (9:00 - 12:00?)
-- Pub Crawl (the Haram hangout) ~ Ihor, Marie, Aida
+- Pub Crawl ~ Ihor, Marie, Aida
 
 # TO-DO
 - [ ] MSG Anja about mailing list
