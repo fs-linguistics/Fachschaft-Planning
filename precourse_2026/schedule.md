@@ -1,4 +1,5 @@
 Meeting start: 16:00 CEST
+
 Meeting end: 18:15 CEST
 
 Present: Aida, Yao, Ihor, Thara, Akshat, Marie, Jay
