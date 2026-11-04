@@ -4,7 +4,9 @@
 Since you study Comp Ling, it's your responsibility to know git. 😎  
 
 That means if you want to contribute you can open a pull request, and I'll merge it.
-If you are a frequent contributer I can also give you push access. 
+If you are a frequent contributor I can also give you push access.
+
+This section is TBE.
 
 
 ## OMG that's too hard
@@ -19,4 +21,4 @@ If you are still unfamiliar with git, you can also open an issue with what you w
 
 # Rules
 
-Given this repo is relatively new, there hasn't been enough time for someone to come along and abuse their privileges.  So in general, I plan on giving push access to anyone that wants. Just please don't bomb everything and then force push to master. 
+Full-fledged members of the organisation are free to push changes. If you are not one, contact [Aida](https://github.com/aisford). This section is TBE.
