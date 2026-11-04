@@ -1,4 +1,9 @@
-# Schedule
+Meeting start: 16:00 CEST
+Meeting end: 18:15 CEST
+
+Present: Aida, Yao, Ihor, Thara, Akshat, Marie, Jay
+
+# Pre-Course Schedule
 
 ## Pre-Pre-Course
 - Post about German & Sports
@@ -15,7 +20,7 @@
 - Intro Session CompLing (16:00 - 18:00)
 
 - Social Event
-  - preferably indoors
+  - preferably indoors (snacks: chips etc.)
 
 ## Tuesday 13/10
 - Post-Intro General Q&A (9:00 - 10:00) ~ EVERYONE!!1!
